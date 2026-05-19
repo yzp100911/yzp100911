@@ -1,26 +1,20 @@
-# 🦀 xCrab Agent
+# ![xCrab](./docs/red-crab.svg) xCrab Agent
 
 > Multi-model AI Gateway / 多模型 AI 网关 — A streamlined, fast, fully open-source framework / 精简版、快速高速的全开源型框架
 
 ## 🌟 Projects
 
-### 🚀 [xCrab-Agent](https://github.com/yzp100911/xCrab-Agent)
+### 🚀 [xCrab-Agent](https://github.com/yzp100911/xCrab-Agent) (v1.0.0)
 Multi-model AI Gateway supporting MiniMax, DeepSeek and other mainstream LLM models.
-- MCP Protocol Support / MCP 协议支持
-- Skill System / 技能系统
-- Memory System / 记忆系统
+[![Release](https://img.shields.io/github/v/release/yzp100911/xCrab-Agent?style=social)](https://github.com/yzp100911/xCrab-Agent/releases/latest)
 
-### 🌐 [eClaw Server](https://github.com/yzp100911/eclaw-server)
+### 🌐 [eClaw Server](https://github.com/yzp100911/eclaw-server) (v1.0.0)
 Node.js + Express + WebSocket web server with user authentication and xCrab Gateway integration.
-- User Authentication (JWT) / 用户认证
-- File Upload / 文件上传
-- WebSocket Real-time Communication / WebSocket 实时通信
+[![Release](https://img.shields.io/github/v/release/yzp100911/eclaw-server?style=social)](https://github.com/yzp100911/eclaw-server/releases/latest)
 
-### 🤖 [Claw Client](https://github.com/yzp100911/claw-client)
+### 🤖 [Claw Client](https://github.com/yzp100911/claw-client) (v1.0.0)
 AI assistant client running on Ubuntu server with Playwright browser automation.
-- Browser Automation / 浏览器自动化
-- WebSocket Communication / WebSocket 通信
-- Background Service / 后台服务
+[![Release](https://img.shields.io/github/v/release/yzp100911/claw-client?style=social)](https://github.com/yzp100911/claw-client/releases/latest)
 
 ## 🛠️ Tech Stack
 
@@ -30,11 +24,13 @@ AI assistant client running on Ubuntu server with Playwright browser automation.
 ![MySQL](https://img.shields.io/badge/MySQL-Database-orange.svg)
 ![Docker](https://img.shields.io/badge/Docker-Enabled-blue.svg)
 
-## 📊 Stats
+## 📊 Latest Releases
 
-![xCrab Agent Stars](https://img.shields.io/github/stars/yzp100911/xCrab-Agent?style=social)
-![eClaw Server Stars](https://img.shields.io/github/stars/yzp100911/eclaw-server?style=social)
-![Claw Client Stars](https://img.shields.io/github/stars/yzp100911/claw-client?style=social)
+| Project | Version | Date |
+|---------|---------|------|
+| [xCrab-Agent](https://github.com/yzp100911/xCrab-Agent/releases) | v1.0.0 | 2026-05-20 |
+| [eClaw Server](https://github.com/yzp100911/eclaw-server/releases) | v1.0.0 | 2026-05-20 |
+| [Claw Client](https://github.com/yzp100911/claw-client/releases) | v1.0.0 | 2026-05-20 |
 
 ## 📝 License
 
